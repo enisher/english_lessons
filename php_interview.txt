@@ -1,0 +1,7 @@
+Interview with Rasmus Lerdof about about creating PHP:
+https://www.youtube.com/watch?v=YIGRXEzjE6c&list=PLHJB2bhmgB7dFuY7HmrXLj5BmHGKTD-3R
+
+Questions to consider: 
+1) What sort of management style does Lerdof use? 
+2) Why does he use this style? 
+3) Do you think his approach could be applied in other contexts? 
