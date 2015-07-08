@@ -14,3 +14,6 @@ stories — and maybe, a way forward.
 - if you want engagement instead of compliance, self direction works better
 - This is the Thrilla in Manila
 - I rest my case
+- To put it mildly,...
+- rudimentary cognitive skill
+- rooted more on folklore than in science
